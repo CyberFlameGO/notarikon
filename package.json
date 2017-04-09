@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "json-loader": "^0.5.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
   }
 }
